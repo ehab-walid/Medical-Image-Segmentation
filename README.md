@@ -1,2 +1,2 @@
 # Medical-Image-Segmentation
-Brain Tumour, Heart and Polyp Segmentation using UNet, Attention UNet and Attention Res-UNet Models
+Brain Tumour, Polyp and Multi-Label Heart Segmentation using UNet, Res-UNet and Attention Res-UNet Models
